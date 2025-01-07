@@ -1,0 +1,46 @@
+lab4-grade.txt
+---------
+Section 1: final result comparison
+Correct test (excluding number of cycles): br_same.x
+Points awarded: 4 / 4
+Correct test (just number of cycles): br_same.x
+Points awarded: 6 / 6
+Correct test (excluding number of cycles): cancel_req.x
+Points awarded: 4 / 4
+Correct test (just number of cycles): cancel_req.x
+Points awarded: 6 / 6
+Correct test (excluding number of cycles): ld.x
+Points awarded: 4 / 4
+Correct test (just number of cycles): ld.x
+Points awarded: 6 / 6
+Correct test (excluding number of cycles): st_loop.x
+Points awarded: 4 / 4
+Correct test (just number of cycles): st_loop.x
+Points awarded: 6 / 6
+
+Section 1 score: 40 / 40
+
+Section 2: cycle-by-cycle comparison
+Test: br_same.x
+Reference simulator cycle count: 35
+Number of cycles: 35
+Points awarded: 15 / 15
+
+Test: cancel_req.x
+Reference simulator cycle count: 353
+Number of cycles: 353
+Points awarded: 15 / 15
+
+Test: ld.x
+Reference simulator cycle count: 48
+Number of cycles: 48
+Points awarded: 15 / 15
+
+Test: st_loop.x
+Reference simulator cycle count: 560
+Number of cycles: 560
+Points awarded: 15 / 15
+
+Section 2 score: 60 / 60
+
+Total score: 100 / 100
