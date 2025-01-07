@@ -1,0 +1,1 @@
+2000 line ARM computer architecture simulator written in C. Simulator supports dozens of instructions, pipelining, 4 layer cache, and cache and branch prediction. Simulator achieves 100% accuracy over 1000 cycles. Relevant code is contained in src/pipe.c, src/cache.c, src/bp.c. This project was completed with a partner. 
